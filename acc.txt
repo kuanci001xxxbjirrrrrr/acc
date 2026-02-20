@@ -2,3 +2,4 @@ satria
 xiaomi-Redmi6A-armeabi-v7a-O11019
 VSLVV
 vivo-V2116-arm64-v8a-TP1A.220624.014
+Redmi-RedmiNote9Pro-arm64-v8a-RKQ1.200826.002
